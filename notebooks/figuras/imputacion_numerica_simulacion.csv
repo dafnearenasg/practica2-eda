@@ -1,0 +1,4 @@
+estrategia,rmse,desv_est,varianza,varianza / varianza real
+A: Media,2275.385,2085.907,4351090.482,0.847
+B: Mediana,2437.326,2109.789,4451288.859,0.866
+KNN (k=5),78.239,2266.551,5137254.253,1.0
