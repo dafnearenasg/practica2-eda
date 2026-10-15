@@ -1,0 +1,7 @@
+dataset,versión,precision,recall,f1,pr_auc
+Adult,Sin winsorizar,0.7362,0.6231,0.675,0.7821
+Adult,"IQR (age, hours)",0.74,0.6263,0.6784,0.785
+Adult,Percentiles 1-99,0.7387,0.6256,0.6775,0.7829
+Telco,Sin winsorizar,0.6562,0.5561,0.602,0.6355
+Telco,IQR,0.6562,0.5561,0.602,0.6355
+Telco,Percentiles 1-99,0.6562,0.5561,0.602,0.6354
