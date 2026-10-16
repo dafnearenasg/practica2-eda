@@ -1,0 +1,7 @@
+dataset,etapa,precision,recall,f1,pr_auc,F1 CV (5 pliegues)
+Telco,1. Imputación (A4),0.6562,0.5561,0.602,0.6355,0.5926 ± 0.0300
+Telco,2. + Winsorización (A5),0.6562,0.5561,0.602,0.6355,0.5926 ± 0.0300
+Telco,3. + Ponderación de clases (A6),0.5052,0.7861,0.6151,0.6338,0.6289 ± 0.0213
+Adult,1. Imputación (A4),0.7362,0.6231,0.675,0.7821,0.6586 ± 0.0057
+Adult,2. + Winsorización (A5),0.7387,0.6256,0.6775,0.7829,0.6581 ± 0.0063
+Adult,3. + Ponderación de clases (A6),0.575,0.8578,0.6885,0.781,0.6806 ± 0.0044

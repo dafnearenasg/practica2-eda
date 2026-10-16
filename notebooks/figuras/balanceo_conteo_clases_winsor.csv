@@ -1,0 +1,5 @@
+dataset,clase,target,cantidad,porcentaje
+Telco,No abandona,0,5174,73.46
+Telco,Churn,1,1869,26.54
+Adult,<=50K,0,24698,75.91
+Adult,>50K,1,7839,24.09

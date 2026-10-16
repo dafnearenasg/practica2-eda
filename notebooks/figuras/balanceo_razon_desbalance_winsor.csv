@@ -1,0 +1,7 @@
+dataset,conjunto,n,clase mayoritaria (n),clase minoritaria (n),% minoritaria,IR,IR > 1.5
+Telco,Total,7043,5174,1869,26.54,2.768,Sí
+Telco,Train,5634,4139,1495,26.54,2.769,Sí
+Telco,Test,1409,1035,374,26.54,2.767,Sí
+Adult,Total,32537,24698,7839,24.09,3.151,Sí
+Adult,Train,26029,19758,6271,24.09,3.151,Sí
+Adult,Test,6508,4940,1568,24.09,3.151,Sí
